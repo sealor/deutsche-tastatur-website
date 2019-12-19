@@ -5,8 +5,9 @@ Ihr seid es Leid, Umlaute umständlich eingeben zu müssen? Dann seid Ihr hier g
 Diese App beinhaltet eine deutsche Tastatur, die Euch die Eingabe von Umlauten sowie deutschen Zahlen- und Datumsangaben erleichtert.
 
 So aktiviert ihr die Tastatur nach der Installation in den Einstellungen unter "Sprache und Texteingabe":
-1. Deutsche Tastatur aktivieren/freischalten (Warnung siehe Hinweise!)
+1. Deutsche Tastatur aktivieren/freischalten (Warnung siehe [Hinweise](#hinweise)!)
 2. Standard-Eingabemethode "Deutsche Tastatur" auswählen
+
 Diese zwei Schritte können je nach Android-Version und Smartphone-Hersteller etwas variieren.
 
 Viele Spaß!
@@ -19,12 +20,13 @@ Du magst diese App und möchtest dem Entwickler eine Aufmerksamkeit zukommen las
  - Bitcoin: [16HR7heNHSgVVMXBKKP99WNRWvYUtxnDAA](bitcoin:16HR7heNHSgVVMXBKKP99WNRWvYUtxnDAA)
  - [Amazon Wunschliste](http://www.amazon.de/registry/wishlist/141TJJFQ4EQT3)
 
-Hinweise:  
-Android warnt bei der Aktivierung von nachträglich installierten Tastaturen, dass die Eingaben an Dritte weitergeleitet werden könnten. Diese Tastatur-App sammelt natürlich keine Daten und besitzt auch keine Berechtigung zum Aufbau einer Internetverbindung!
+### Hinweise
+
+Android warnt immer bei der Aktivierung von Tastaturen, dass die Eingaben an Dritte weitergeleitet werden könnten. Diese Tastatur-App sammelt natürlich keine Daten und besitzt auch keine Berechtigung zum Aufbau einer Internetverbindung!
 
 Diese App wurde mit größter Sorgfalt entwickelt. Trotz dessen kann ich keine Haftung für mögliche technische Schäden übernehmen.
 
-Leider kann ich die App aus zeitlichen Gründen nur sehr selten weiterentwickeln. Des Weitern hat Google für mich den Aufwand durch geänderte Richtlinien stetig erhöht. Das macht es für ein Hobby-Projekt wie dieses besonders schwierig.
+Leider kann ich die App aus zeitlichen Gründen nur sehr selten weiterentwickeln. Des Weiteren hat Google für mich den Aufwand durch geänderte Richtlinien stetig erhöht. Das macht es für ein Hobby-Projekt wie dieses besonders schwierig.
 
 ### Impressum
 
