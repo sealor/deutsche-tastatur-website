@@ -20,6 +20,10 @@ Du magst diese App und möchtest dem Entwickler eine Aufmerksamkeit zukommen las
  - Bitcoin: [16HR7heNHSgVVMXBKKP99WNRWvYUtxnDAA](bitcoin:16HR7heNHSgVVMXBKKP99WNRWvYUtxnDAA)
  - [Amazon Wunschliste](http://www.amazon.de/registry/wishlist/141TJJFQ4EQT3)
 
+### Download
+
+* [MyGermanKeyboard_2.0.0.apk](https://github.com/sealor/deutsche-tastatur-website/releases/download/2.0.0/MyGermanKeyboard_2.0.0.apk)
+
 ### Hinweise
 
 Android warnt immer bei der Aktivierung von Tastaturen, dass die Eingaben an Dritte weitergeleitet werden könnten. Diese Tastatur-App sammelt natürlich keine Daten und besitzt auch keine Berechtigung zum Aufbau einer Internetverbindung!
