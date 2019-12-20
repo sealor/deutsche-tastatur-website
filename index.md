@@ -36,4 +36,4 @@ Leider kann ich die App aus zeitlichen Gründen nur sehr selten weiterentwickeln
 
 Stefan Richter, Haferkornstr. 48, 04129 Leipzig
 
-E-Mail: [jdevsr3@googlemail.com](https://play.google.com/store/apps/developer?id=jdevsr3)
+E-Mail: [jdevsr3&#064;go](https://play.google.com/store/apps/developer?id=jdevsr3)[ogle&#109;ail&#046;com](https://play.google.com/store/apps/developer?id=jdevsr3)
