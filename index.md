@@ -22,7 +22,7 @@ Du magst diese App und möchtest dem Entwickler eine Aufmerksamkeit zukommen las
 
 ### Download
 
-* [MyGermanKeyboard_2.0.0.apk](https://github.com/sealor/deutsche-tastatur-website/releases/download/2.0.0/MyGermanKeyboard_2.0.0.apk)
+* [MyGermanKeyboard_2.0.1.apk](https://github.com/sealor/deutsche-tastatur-website/releases/download/2.0.1/MyGermanKeyboard_2.0.1.apk)
 
 ### Hinweise
 
